@@ -1,4 +1,4 @@
-// Tanvir Portfolio Interactive Controller
+// Piyush Portfolio Interactive Controller
 
 document.addEventListener('DOMContentLoaded', () => {
   initMobileMenu();
@@ -123,14 +123,14 @@ function initTestimonialSlider() {
     },
     {
       stars: 5,
-      text: "Tanvir's incredible attention to detail and modern user experience principles enabled us to secure our lead venture round. Incredibly professional to work with!",
+      text: "Piyush's incredible attention to detail and modern user experience principles enabled us to secure our lead venture round. Incredibly professional to work with!",
       name: "Salim Ahmed",
       role: "UI Designer",
       avatarSrc: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&q=80&w=120"
     },
     {
       stars: 5,
-      text: "Absolute master class in product typography and grid structures. Tanvir simplified a highly complex multi-tenant B2B interface into beautiful intuitive flows.",
+      text: "Absolute master class in product typography and grid structures. Piyush simplified a highly complex multi-tenant B2B interface into beautiful intuitive flows.",
       name: "Guy Hawkins",
       role: "Senior Product Specialist",
       avatarSrc: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&q=80&w=120"
@@ -251,7 +251,7 @@ function initContactForm() {
           </svg>
           <div>
             <strong class="uppercase text-[#2c9a62] block mb-1">[Success Confirmation]</strong>
-            Thanks ${name}. Your proposal coordinates have been securely published. Tanvir will respond to <strong>${email}</strong> directly.
+            Thanks ${name}. Your proposal coordinates have been securely published. Piyush will respond to <strong>${email}</strong> directly.
           </div>
         `;
         contactForm.appendChild(successBanner);
